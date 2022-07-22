@@ -59,6 +59,11 @@ img.slider-img {
 
     margin: 30px
 }
+
+.detail-img{
+    height: 400px
+}
+
 </style>
 
 </html>
